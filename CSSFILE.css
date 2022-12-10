@@ -74,5 +74,9 @@ p{
     font-weight: bolder;
     font-size: larger;
 }
-
+pre{
+    font-weight: bold;
+    font-size: larger;
+    font-optical-sizing: auto;
+}
 
